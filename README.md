@@ -34,7 +34,7 @@ python run.py --dataset=NYT   --train=test
 python run.py --dataset=NYT_star   --train=test
 ```
 ## Main results
-![](./Main results.png)
+![](Main results.png)
 The average results of our model throughout the three runs with various random seeds are reported here to demonstrate the reliability and generalizability of our model.
 ## Pre-trained Models
 ### Download Links
