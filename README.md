@@ -36,16 +36,6 @@ python run.py --dataset=NYT_star   --train=test
 ## Main results
 ![](./Main_results.png)
 The average results of our model throughout the three runs with various random seeds are reported here to demonstrate the reliability and generalizability of our model.
-## Pre-trained Models
-### Download Links
-Pre-trained models with three runs using various random seeds can be downloaded via the following download links.
-| Dataset | File Size | Download |
-| ------- | ------- | ------- |
-| **NYT** | 472.3MB | [model1](https://drive.google.com/file/d/1l1tNPdCVEBurgWRvr1KvTyzgTtHeoOeK/view?usp=drive_link) [model2](https://drive.google.com/file/d/1n8LPdrlPLMsLvmNflPKANts5Pcq2gtCw/view?usp=drive_link) [model3](https://drive.google.com/file/d/1Am38cvxic3MDbl4k9-1HTlJ12rW3ptz0/view?usp=drive_link) |
-| **NYT_star** | 472.3MB | [model1](https://drive.google.com/file/d/18S8DHiNkZAINfHdt0HoC_dlyUFMFj0ML/view?usp=drive_link) [model2](https://drive.google.com/file/d/1E-M_UWHDhR3pzSsefNz5fTx9G_2JwFpp/view?usp=drive_link) [model3](https://drive.google.com/file/d/1i5JrGBBongRiCk8GLruZgFL61vtV6o5a/view?usp=drive_link)  |
-| **WebNLG** | 475.7MB | [model1](https://drive.google.com/file/d/143ydHpVh50_Hb1Ywh9zANVikN4bBChCs/view?usp=drive_link) [model2](https://drive.google.com/file/d/1ne8IRq3xT-D4KcVdHhgb2xaZ38JRpkKf/view?usp=drive_link) [model3](https://drive.google.com/file/d/1IK0wHKZboJIFfr6miBlCHZewst0wGpQW/view?usp=drive_link)  |
-| **WebNLG_star** | 474.9MB | [model1](https://drive.google.com/file/d/10ZM4S5uqpLQYUdcMPSrba6p7mzire1Um/view?usp=drive_link) [model2](https://drive.google.com/file/d/159i0jytGMRiBIh_ZGSzWG6KtmBKnWDDW/view?usp=drive_link) [model3](https://drive.google.com/file/d/1Bs9_60ZwO36GbKB2pqVcsLk-OYP57aAq/view?usp=drive_link)  |
-
 
 ### Acknowledgement
 Parts of our codes come from [bert4keras](https://github.com/bojone/bert4keras).
